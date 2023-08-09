@@ -1,3 +1,8 @@
+/*
+Name: Dhruv Patel.
+Enrollment Number: AU2240166.
+ */
+
 class Solution {
     public int sumOfMultiples(int n) {
         int sum = 0;
